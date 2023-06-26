@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[266],{1266:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var o=n(3329),r={title:{fontWeight:500,fontSize:48,textAlign:"center"}};function c(){return(0,o.jsx)("div",{children:(0,o.jsxs)("h1",{style:r.title,children:["Welcome to fhonebook!"," "]})})}}}]);
+//# sourceMappingURL=266.3f61ce26.chunk.js.map
